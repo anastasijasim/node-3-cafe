@@ -1,4 +1,4 @@
 # node-3-cafe
 
-Cafe 3 Node.js and React
+Cafe 3 Node.js!
 
