@@ -1,0 +1,14 @@
+.Hero-item{
+  position: relative;
+  display: block;
+  bottom: 280px;
+  text-align: center;
+  margin: 10px auto;
+}
+
+button{
+  background-color: rgb(176, 213, 255);
+  color: white;
+  width: 80px;
+  height: 30px;
+}
