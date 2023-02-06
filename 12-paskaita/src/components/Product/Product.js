@@ -1,4 +1,6 @@
 import React, { useState } from "react";
+import "./Product.css"
+
 // import "../App.css";
 import PropTypes from "prop-types";
 import { FaRegStar, FaStar } from "react-icons/fa";
